@@ -3,6 +3,8 @@ main:
   - title: "CV"
     url: /cv/
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+  - title: "Coffee"
+    url: /coffee/
     
   
