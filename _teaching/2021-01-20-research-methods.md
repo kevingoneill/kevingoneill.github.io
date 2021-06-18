@@ -2,9 +2,9 @@
 title: "Research Methods TA"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2021-research-methods
+permalink: /teaching/2021-01-research-methods
 venue: "Duke University"
-date: 2020-01-01
+date: 2021-01-01
 location: "Durham, NC"
 ---
 
