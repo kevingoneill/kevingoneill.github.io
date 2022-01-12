@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kevin O'Neill"
 title_separator          : "-"
 name                     : &name "Kevin O'Neill"
-description              : &description "Graduate student at Duke University"
+description              : &description "PhD candidate at Duke University"
 url                      : https://kevingoneill.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kevingoneill/kevingoneill.github.io"
@@ -80,7 +80,7 @@ author:
   name             : "Kevin O'Neill"
   avatar           : "profile.jpg"
   bio              : "Graduate student at Duke University working with Dr. Felipe De Brigard and Dr. John Pearson"
-  location         : "Durham, NC"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KqYoKv4AAAAJ&hl=en"
@@ -172,6 +172,9 @@ kramdown:
 
 # Collections
 collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -186,8 +189,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
@@ -203,8 +206,17 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
 
 # Sass/SCSS
 sass:
@@ -216,7 +228,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

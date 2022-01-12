@@ -52,7 +52,6 @@
 
   h2 {
     padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
   }
 
   p, li, dl {
@@ -73,14 +72,14 @@
   }
 
   a {
-    text-decoration: underline;
-
+    text-decoration: none;
+      
     &:hover {
-      text-decoration: underline;
-
-      img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
-      }
+	text-decoration: underline;
+	
+	img {
+            box-shadow: 0 0 10px rgba(#000, 0.25);
+	}
     }
   }
 
@@ -198,8 +197,7 @@
 .page__share {
   margin-top: 2em;
   padding-top: 1em;
-  border-top: 1px solid $border-color;
-
+  
   @include breakpoint(max-width $small) {
     .btn span {
       border: 0;
@@ -267,7 +265,6 @@
   margin-bottom: 8px;
   padding: 5px 10px;
   text-decoration: none;
-  border: 1px solid $light-gray;
   border-radius: $border-radius;
 
   &:hover {
@@ -290,7 +287,6 @@
   margin-bottom: 10px;
   padding-top: 2rem;
   font-size: $type-size-6;
-  border-top: 1px solid $border-color;
   text-transform: uppercase;
 }
 
@@ -318,7 +314,6 @@
   margin: 1em 0;
 
   &:not(:last-child) {
-    border-bottom: 1px solid $border-color;
   }
 }
 
@@ -342,7 +337,6 @@
     width: 80px;
     height: 80px;
     padding: 5px;
-    border: 1px solid $border-color;
   }
 }
 
@@ -380,7 +374,6 @@
 .page__related {
   margin-top: 2em;
   padding-top: 1em;
-  border-top: 1px solid $border-color;
   @include clearfix();
   float: left;
 
