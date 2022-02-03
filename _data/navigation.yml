@@ -10,5 +10,8 @@ main:
     url: /resources
   - title: "Coffee"
     url: /coffee/
+  - title: "Cats"
+    url: /cats/
+    
     
   
