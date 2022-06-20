@@ -21,3 +21,10 @@ imagination, integrated that research into a novel thesis, and talked
 about the implications of their views. Overall, this was a fantastic
 class in which I could lead discussions, share my own research on
 imagination, and help students find their own paths.
+
+Here's what some of my students had to say at the end of the term:
+
+- "Kevin was approachable and knowledgeable about the content of this course! I loved how he would comment on our creative posts to engage with us"
+- "Super supportive in every aspect and offered great insights during our class discussions, challenged us, and also really helpful for giving paper feedback!"
+- "I loved how Kevin brought in a different perspective to the class with his neuroscience background. He really did a good job at helping to teach the material"
+- "He was good at integrating his own knowledge to the topics we covered, made comments to help encourage new ways of thinking about the material, and was overall very kind when it came to potential issues that may have come up during the course"
