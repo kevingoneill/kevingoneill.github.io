@@ -42,7 +42,7 @@ in those judgments (O'Neill et al., 2021).
 
 
 <div style="display: block; margin: auto; margin-top: 2em; text-align: center;">
-<img src="../images/causal-judgment-confidence.pdf" style="width: 600px;">
+<img src="../images/causal-judgment-confidence.png" style="width: 600px;">
 </div>
 
 
