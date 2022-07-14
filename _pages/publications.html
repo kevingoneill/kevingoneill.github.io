@@ -1,0 +1,24 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% if author.googlescholar %}
+  You can find a complete list of articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% assign topics = "Causal Judgment, Category Learning & Memory, Mind Wandering, Miscellaneous" | split: ", " %}
+{% for topic in topics %}
+  <div class="container">
+  <h2> {{ topic }} </h2>
+
+  {% assign papers = site.publications | where: 'topic', topic | reverse %}
+  {% for paper in papers %}
+    {% include publication.html %}
+  {% endfor %}
+  </div>
+{% endfor %}

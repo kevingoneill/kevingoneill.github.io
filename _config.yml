@@ -172,6 +172,9 @@ kramdown:
 
 # Collections
 collections:
+  publications:
+    output: false
+    permalink: /:collection/:path/
   research:
     output: true
     permalink: /:collection/:path/
@@ -214,6 +217,14 @@ defaults:
       type: research
     values:
       layout: single
+      author_profile: true
+      share: false
+      comments: false
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
       author_profile: true
       share: false
       comments: false

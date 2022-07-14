@@ -1,0 +1,35 @@
+{% include base_path %}
+
+{% assign teaser = site.teaser %}
+{% assign title = post.title %}
+
+<div class='{{ include.type | default: "list" }}__item'>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <div style="margin: 20px 30px 20px 30px;">
+      <details>
+	<summary><b>{{ paper.citation }}</b></summary>
+
+	<div style="margin: 20px 30px 20px 30px; text-align: justify;">	  
+	  {% if paper.abstract %}
+	  <p>{{ paper.abstract }}</p>
+	  {% endif %}
+
+	  {% if paper.paperurl or paper.osf or paper.github %}
+	  <div style="font-size: 64px; display: flex; justify-content: space-evenly; margin-bottom: 15px;">
+	    {% if paper.paperurl %}
+	      <a href="{{paper.paperurl}}" target="_blank"><i class="fa fa-solid fa-file"></i></a>
+	    {% endif %}
+	    {% if paper.osf %}
+	      <a href="{{paper.osf}}" target="_blank"><i class="ai ai-osf"></i></a>
+	    {% endif %}
+	    {% if paper.github %}
+	      <a href="{{paper.github}}" target="_blank"><i class="fab fa-fw fa-github"></i></a>
+	    {% endif %}
+	  </div>
+	  {% endif %}
+
+	</div>
+      </details>
+    </div>
+  </article>
+</div>
