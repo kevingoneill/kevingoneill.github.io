@@ -60,26 +60,25 @@
 
 summary {
     cursor: pointer;
-    list-style: none;
-    transition-delay: .11s;
-
+        
     &:hover {
 	     color: $text-color;
-	     transition-delay: .11s;
-    }
-    &:-webkit-details-marker {
-	     display: none;
-    }
-    &:marker {
-	     content: none;
     }
     &::after {
-	     content: ' ►';
+	content: ' ▶';
     }
 }
 details[open] summary:after {
-  content: " ▼";
+    content: " ▼";
 }
+summary::-webkit-details-marker {
+    display: none
+}
+summary::marker {
+    content: none
+}
+
+
 
 /* remove border*/
 .page__content {
