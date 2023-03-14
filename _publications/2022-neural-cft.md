@@ -1,0 +1,10 @@
+---
+title: "Neural differences between internal and external episodic counterfactual thoughts"
+collection: publications
+date: 2022-12-19
+journal: 'Philosophical Transactions of the Royal Society B'
+paperurl: 'https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0337'
+citation: "Khoudary, A., O'Neill, K., Faul, L., Murray, S., Smallman, R., & De Brigard, F. (2022). Neural differences between internal and external episodic counterfactual thoughts. Philosophical Transactions of the Royal Society B, 377(1866), 20210337."
+abstract: "Episodic counterfactual thoughts (eCFT) consist of imagining alternative outcomes to past experiences. A common sub-class of eCFT—upward eCFT—involves imagining how past negative experiences could have been better, either because one could have done something differently (internal) or because something about the circumstances could have been different (external). Although previous neuroimaging research has shown that the brain's default mode network (DMN) supports upward eCFT, it is unclear how it is differentially recruited during internal versus external upward eCFT. We collected functional magnetic resonance imaging data while participants remembered negative autobiographical memories, generated either internal or external upward eCFT for the memory, and then rated the plausibility, perceived control and difficulty of eCFT generation. Both internal and external eCFT engaged midline regions of cingulate cortex, a central node of the DMN. Most activity differentiating eCFT, however, occurred outside the DMN. External eCFT engaged cuneus, angular gyrus and precuneus, whereas internal eCFT engaged posterior cingulate and precentral gyrus. Angular gyrus and precuneus were additionally sensitive to perceived plausibility of external eCFT, while postcentral gyrus and insula activity scaled with perceived plausibility of internal eCFT. These results highlight the key brain regions that might be involved in cases of maladaptive mental simulations.<br><br>This article is part of the theme issue ‘Thinking about possibilities: mechanisms, ontogeny, functions and phylogeny’."
+topic: 'Miscellaneous'
+---
