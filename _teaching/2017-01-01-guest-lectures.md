@@ -1,5 +1,5 @@
 ---
-title: "RPI Guest Lectures"
+title: "Guest Lecturer: RPI"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-guest-lectures
