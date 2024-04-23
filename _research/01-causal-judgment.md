@@ -20,7 +20,7 @@ Dr. Paul Bello, I helped to explain this behavior using a
 computational model of counterfactual thought (Bello et al., 2018). In
 an ongoing experiment, I'm studying whether these sorts of eye
 movements are supported by visual mental imagery (Krasich, O'Neill et
-al., 2022).
+al., 2024).
 
 <div style="display: block; margin: auto; margin-top: 2em; margin-bottom: 2em; text-align: center;">
 <video width="400" height="300" autoplay loop>
@@ -49,6 +49,6 @@ in those judgments (O'Neill et al., 2021).
 ## References:
   - [Bello, P., Lovett, A., Briggs, G., & O’Neill, K. (2018). An attention-driven model of human causal reasoning. Proceedings of the 40th Annual Meeting of the Cognitive Science Society.](https://cogsci.mindmodeling.org/2018/papers/0264/0264.pdf)
   - [Henne, P., O’Neill, K., Bello, P., Khemlani, S., & De Brigard, F. (2020). Norms affect prospective causal judgments. Cognitive Science.](https://doi.org/10.1111/cogs.12931)
-  - [Krasich, K., O’Neill, K., & De Brigard, F. (2022). Eye tracking mental simulations during retrospective causal reasoning.](https://osf.io/rzbja/)
-  - [O’Neill, K., Henne, P., Bello, P., & De Brigard, F. (2022). Confidence and gradation in causal judgments.](https://osf.io/m5w9c/)
+  - [Krasich, K.<sup>\*</sup>, O'Neill, K.<sup>\*</sup>, & De Brigard, F. (2024). Looking at Mental Images: Eye‐Tracking Mental Simulation During Retrospective Causal Judgment. Cognitive Science, 48(3), e13426.](https://doi.org/10.1111/cogs.13426)
+  - [O'Neill, K., Henne, P., Bello, P., Pearson, J., & De Brigard, F. (2022). Confidence and gradation in causal judgment. Cognition, 223, 105036.](https://www.sciencedirect.com/science/article/pii/S0010027722000245)
   - [O’Neill, K., Henne, P., Pearson, J., & De Brigard, F. (2021). Measuring and modeling confidence in human causal judgment. Workshop on Metacognition in the Age of AI: Challenges and Opportunities, 35th Conference on Neural Information Processing Systems (NeurIPS 2021), Sydney, Australia.](https://psyarxiv.com/cgvwf)

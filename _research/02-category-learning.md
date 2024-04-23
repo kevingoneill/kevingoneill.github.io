@@ -49,7 +49,7 @@ analysis, a computational model designed to deconfound *sensitivity*
 (i.e., memory accuracy) from *bias* (i.e., response tendency). We
 found that people who learned the category well had an increased bias:
 they tended to report that they had previously seen flowers in the
-learned category whether or not the actually saw that flower in the
+learned category whether or not they actually saw that flower in the
 past:
 
 <div style="display: block; margin: auto; text-align: center;">

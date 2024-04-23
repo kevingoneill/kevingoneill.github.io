@@ -4,13 +4,12 @@ collection: research
 permalink: /research/mind-wandering
 ---
 
-As part of a collaboration with [Dr. Paul
-Seli](https://www.mindatlargelab.com), I have also studied our
-unending habit of mind-wandering. While cognitive scientists would
-like to pretend that people are faithfully attending to their assigned
-tasks at all times, the reality is that much of our time is spent
-doing some sort of mind-wandering. So, it's important to understand
-what our minds are doing when they wander.
+In collaborations with Dr. Paul Seli and Dr. Kristina Krasich, I have
+also studied our unending habit of mind-wandering. While cognitive
+scientists would like to pretend that people are faithfully attending
+to their assigned tasks at all times, the reality is that much of our
+time is spent doing some sort of mind-wandering. So, it's important to
+understand what our minds are doing when they wander.
 
 In one study, we investigated a seemingly paradoxical result in the
 psychological literature. Traditionally, researchers have thought of
@@ -41,23 +40,26 @@ self-reports, we found that these dimensions were indeed separable,
 suggesting that studies focusing on one definition might show
 different results under a different definition (O'Neill et al., 2021).
 
-Finally, some ongoing work with [Dr. Kristina
-Krasich](https://sites.duke.edu/kkrasich/) studies how people move
-their eyes when their minds wander. Normally, vision scientists find
-that when people fixate on a stimulus for a longer period of time, it
-is because they are attending to it so that they can process it more
-deeply. But recent studies have shown that when people mind-wander,
-they also tend to fixate for longer periods of time. So do longer
-fixations indicate that people are paying more or less attention?
-Using a computational model of scene viewing, we showed that when
-people attend to a stimulus, the evidence accumulation process
-controlling eye movements operates more slowly to gather important
-information. In contrast, when people mind-wander, this process is
-simply more variable, and it is this variability that causes people to
-fixate longer on average. This finding agrees with other work showing
-that people are more variable when they mind-wander.
+Finally, in collaboration with [Dr. Kristina
+Krasich](https://sites.duke.edu/kkrasich/), I've studied how people
+move their eyes when their minds wander. Normally, vision scientists
+find that when people fixate on a stimulus for a longer period of
+time, it is because they are attending to it so that they can process
+it more deeply. But recent studies have shown that when people
+mind-wander, they also tend to fixate for longer periods of time. So
+do longer fixations indicate that people are paying more or less
+attention?  Using a computational model of scene viewing, we showed
+that when people attend to a stimulus, the evidence accumulation
+process controlling eye movements operates more slowly to gather
+important information. In contrast, when people mind-wander, this
+process is simply more variable, and it is this variability that
+causes people to fixate longer on average. This finding agrees with
+other work showing that people are more variable when they
+mind-wander.
 
 
 ## References:
   - [O’Neill, K., Smith, A. P., Smilek, D., & Seli, P. (2020). Dissociating the freely-moving thought dimension of mind-wandering from the intentionality and task-unrelated thought dimensions. Psychological Research.](https://doi.org/10.1007/s00426-020-01419-9)
   - [Seli, P., O’Neill, K., Carriere, J. S., Smilek, D., Beaty, R. E., & Schacter, D. L. (2020). Mind-wandering across the age gap: Age-related differences in mind-wandering are partially attributable to age-related differences in motivation. The Journals of Gerontology: Series B.](https://doi.org/10.1093/geronb/gbaa031)
+  - [Krasich, K.<sup>\*</sup>, O'Neill, K.<sup>\*</sup>, Murray, S., Brockmole, J. R., De Brigard, F., & Nuthmann, A. (2024). A computational modeling approach to investigating mind wandering-related adjustments to gaze behavior during scene viewing. Cognition, 242, 105624.](https://doi.org/10.1016/j.cognition.2023.105624)
+
