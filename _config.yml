@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kevin O'Neill"
 title_separator          : "-"
 name                     : &name "Kevin O'Neill"
-description              : &description "PhD candidate at Duke University"
+description              : &description "Postdoctoral Researcher at University College London"
 url                      : https://kevingoneill.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kevingoneill/kevingoneill.github.io"
@@ -84,7 +84,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KqYoKv4AAAAJ&hl=en"
-  email            : "kevin.oneill@duke.edu"
+  email            : "kevin.o'neill@ucl.ac.uk"
   researchgate     : 
   uri              :
   bitbucket        :
