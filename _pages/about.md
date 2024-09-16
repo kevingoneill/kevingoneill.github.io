@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral fellow at University College London with [Dr. Steve
-Fleming](http://metacoglab.org) studying connections between
-counterfactual thinking and metacognition. In my work, I use a mix of
-methods from psychology, computational modeling, and cognitive
+I'm a postdoctoral research associate at University College London
+with [Dr. Steve Fleming](http://metacoglab.org) studying connections
+between counterfactual thinking and metacognition. In my work, I use a
+mix of methods from psychology, computational modeling, and cognitive
 neuroscience to understand the computations underlying causal
 judgment, among other interests.
 
