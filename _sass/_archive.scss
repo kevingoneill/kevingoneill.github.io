@@ -65,11 +65,11 @@ summary {
 	     color: $text-color;
     }
     &::after {
-	content: ' ▶';
+	content: ' \0025B6';
     }
 }
 details[open] summary:after {
-    content: " ▼";
+    content: " \0025BC";
 }
 summary::-webkit-details-marker {
     display: none
