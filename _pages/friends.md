@@ -17,10 +17,10 @@ me, my friends & mentors, and more:
 [Gabriela Fernandez Miranda](https://gabrielafernandezmiranda.github.io): forgiveness, moral judgment, counterfactuals
 
 ## Resources & Groups
-[IMC Lab](https://imclab.org): this is the website for the IMC lab, led by my co-advisor Felipe De Brigard. <br>
-[Pearson Lab](https://pearsonlab.github.io): this is the website for the Pearson lab, led by my other co-advisor John Pearson. <br>
+[the MetaLab](http://metacoglab.org): this is the website for my current lab, led by Dr. Stephen Fleming. <br>
+[IMC Lab](https://imclab.org): this is the website for the IMC lab, led by my PhD advisor Felipe De Brigard. <br>
+[Pearson Lab](https://pearsonlab.github.io): this is the website for the Pearson lab, led by my other PhD advisor John Pearson. <br>
 [Duke Institite for Brain Sciences Methods Meetings](https://dibsmethodsmeetings.github.io): this is a group of students & faculty I put together at Duke to share knowledge about statistics, methodology, programming, and more! We create new blog posts on the site bi-weekly, so stay tuned! <br>
-[Meta-Meta Resources](https://meta-meta-resources.org): my good friend [Jack Dolgin](https://jackdolgin.org) set up this amazing website that includes a whole bunch of resources for doing research in cognitive neuroscience in an organized package.
 
 ## Past Mentors
 [Paul Bello](https://scholar.google.com/citations?user=72lZt54AAAAJ&hl=en) & [Will Bridewell](https://paravidya.com): attention, intentional action, consciousness, end-to-end reasoning <br>

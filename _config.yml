@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kevin O'Neill"
 title_separator          : "-"
 name                     : &name "Kevin O'Neill"
-description              : &description "Postdoctoral Researcher at University College London"
+description              : &description "Postdoctoral Research Associate at University College London working with Dr. Stephen Fleming"
 url                      : https://kevingoneill.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kevingoneill/kevingoneill.github.io"
@@ -79,7 +79,7 @@ github: [metadata]
 author:
   name             : "Kevin O'Neill"
   avatar           : "profile.jpg"
-  bio              : "PhD at Duke University working with Dr. Felipe De Brigard and Dr. John Pearson"
+  bio              : "Postdoctoral Research Associate at University College London working with Dr. Stephen Fleming"
   location         : 
   employer         :
   pubmed           : 
@@ -88,6 +88,7 @@ author:
   researchgate     : 
   uri              :
   bitbucket        :
+  bsky             : "kevingoneill.bsky.social"
   codepen          :
   dribbble         :
   flickr           :
