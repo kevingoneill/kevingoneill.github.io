@@ -17,12 +17,12 @@ me, my friends & mentors, and more:
 [Gabriela Fernandez Miranda](https://gabrielafernandezmiranda.github.io): forgiveness, moral judgment, counterfactuals
 
 ## Resources & Groups
-[the MetaLab](http://metacoglab.org): this is the website for my current lab, led by Dr. Stephen Fleming. <br>
-[IMC Lab](https://imclab.org): this is the website for the IMC lab, led by my PhD advisor Felipe De Brigard. <br>
-[Pearson Lab](https://pearsonlab.github.io): this is the website for the Pearson lab, led by my other PhD advisor John Pearson. <br>
+[the MetaLab](http://metacoglab.org): this is the website for my current lab, led by Prof. Stephen Fleming. <br>
 [Duke Institite for Brain Sciences Methods Meetings](https://dibsmethodsmeetings.github.io): this is a group of students & faculty I put together at Duke to share knowledge about statistics, methodology, programming, and more! We create new blog posts on the site bi-weekly, so stay tuned! <br>
 
 ## Past Mentors
+[IMC Lab](https://imclab.org): this is the website for the IMC lab, led by my PhD advisor Felipe De Brigard. <br>
+[Pearson Lab](https://pearsonlab.github.io): this is the website for the Pearson lab, led by my other PhD advisor John Pearson. <br>
 [Paul Bello](https://scholar.google.com/citations?user=72lZt54AAAAJ&hl=en) & [Will Bridewell](https://paravidya.com): attention, intentional action, consciousness, end-to-end reasoning <br>
 [Sangeet Khemlani](https://khemlani.net): symbolic reasoning, language, inference <br>
 [Selmer Bringsjord](https://homepages.rpi.edu/~brings/): logic-based artificial intelligence, theorem proving
