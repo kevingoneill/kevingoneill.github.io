@@ -6,12 +6,12 @@
     margin-bottom: 2em;
 
     @include breakpoint($medium) {
-	@include span(12 of 12);
+				@include span(12 of 12);
     }
 
     @include breakpoint($large) {
-	@include span(10 of 12 last);
-	@include prefix(0.5 of 12);
+				@include span(10 of 12 last);
+				@include prefix(0.5 of 12);
     }
 }
 
@@ -23,7 +23,7 @@
     border-bottom: 1px solid $border-color;
 
     + .list__item .archive__item-title {
-	margin-top: 0.5em;
+				margin-top: 0.5em;
     }
 }
 
@@ -34,16 +34,16 @@
     border-radius: 10px;
 
     a {
-	text-decoration: none;
-	color: $background-color;
+				text-decoration: none;
+				color: $background-color;
 
-	&:hover {
-	    color: $text-color;
+				&:hover {
+						color: $text-color;
 
-	    img {
-		box-shadow: 0 0 10px rgba(#000, 0.25);
-	    }
-	}
+						img {
+								box-shadow: 0 0 10px rgba(#000, 0.25);
+						}
+				}
     }
 }
 
@@ -54,18 +54,19 @@
     font-family: $sans-serif-narrow;
 
     a + a {
-	opacity: 0.5;
+				opacity: 0.5;
     }
 }
 
 summary {
     cursor: pointer;
-        
+    display: inline;
+		
     &:hover {
-	     color: $text-color;
+				color: $text-color;
     }
-    &::after {
-	content: ' \0025B6';
+		&:after {
+				content: ' \0025B6';
     }
 }
 details[open] summary:after {
@@ -74,9 +75,6 @@ details[open] summary:after {
 summary::-webkit-details-marker {
     display: none
 }
-summary::marker {
-    content: none
-}
 
 
 
@@ -84,12 +82,12 @@ summary::marker {
 .page__content {
 
     .archive__item-title {
-	color: $text-color;
+				color: $text-color;
 
-	margin-top: 0em;
-	margin-left: 1em;
-	margin-right: 1em;
-	border-bottom: none;
+				margin-top: 0em;
+				margin-left: 1em;
+				margin-right: 1em;
+				border-bottom: none;
     }
 }
 
@@ -98,8 +96,8 @@ summary::marker {
     font-size: $type-size-6;
 
     & + p {
-	margin-left: 1em;
-	margin-right: 1em;
+				margin-left: 1em;
+				margin-right: 1em;
     }
 }
 
@@ -107,17 +105,17 @@ summary::marker {
     border-radius: $border-radius;
     overflow: hidden;
     img {
-	width: 100%;
+				width: 100%;
     }
 }
 
 .archive__item:hover {
     .archive__item-teaser {
-	box-shadow: 0 0 10px rgba(#000, 0.25);
+				box-shadow: 0 0 10px rgba(#000, 0.25);
     }
 
     .archive__item-title {
-	text-decoration: none;
+				text-decoration: none;
     }
 }
 
@@ -125,22 +123,21 @@ summary::marker {
 /*
    List view
    ========================================================================== */
-
 .list__item {
     @include breakpoint($medium) {
-	padding-right: $right-sidebar-width-narrow;
+				padding-right: $right-sidebar-width-narrow;
     }
 
     @include breakpoint($large) {
-	padding-right: $right-sidebar-width;
+				padding-right: $right-sidebar-width;
     }
 
     @include breakpoint($x-large) {
-	padding-right: $right-sidebar-width-wide;
+				padding-right: $right-sidebar-width-wide;
     }
 
     .page__meta {
-	margin: 0 0 4px;
+				margin: 0 0 4px;
     }
 }
 
@@ -153,38 +150,38 @@ summary::marker {
     margin-bottom: 2em;
 
     .page__meta {
-	margin: 0 0 4px;
+				margin: 0 0 4px;
     }
 
     .archive__item-title {
-	margin-top: 0.5em;
-	font-size: $type-size-5;
+				margin-top: 0.5em;
+				font-size: $type-size-5;
     }
 
     .archive__item-excerpt {
-	display: none;
+				display: none;
     }
 
     @include breakpoint($small) {
-	@include gallery(5 of 10);
-	.archive__item-teaser {
-	    max-height: 200px;
-	}
+				@include gallery(5 of 10);
+				.archive__item-teaser {
+						max-height: 200px;
+				}
     }
 
     @include breakpoint($medium) {
-	margin-left: 0; /* reset before mixin does its thing*/
-	margin-right: 0; /* reset before mixin does its thing*/
-	@include gallery(2.5 of 10);
+				margin-left: 0; /* reset before mixin does its thing*/
+				margin-right: 0; /* reset before mixin does its thing*/
+				@include gallery(2.5 of 10);
 
-	.archive__item-teaser {
-	    max-height: 120px;
-	}
+				.archive__item-teaser {
+						max-height: 120px;
+				}
 
-	.archive__item-excerpt {
-	    display: block;
-	    font-size: $type-size-6;
-	}
+				.archive__item-excerpt {
+						display: block;
+						font-size: $type-size-6;
+				}
     }
 }
 
@@ -204,79 +201,79 @@ summary::marker {
     font-size: 1.25rem;
 
     @include breakpoint($small) {
-	margin-bottom: 0;
-	@include gallery(4 of 12);
+				margin-bottom: 0;
+				@include gallery(4 of 12);
 
-	.feature__item-teaser {
-	    max-height: 200px;
-	    overflow: hidden;
-	}
+				.feature__item-teaser {
+						max-height: 200px;
+						overflow: hidden;
+				}
     }
 
     &--left {
-	@include full();
-	font-size: 1.25rem;
+				@include full();
+				font-size: 1.25rem;
 
-	.archive__item-teaser {
-	    margin-bottom: 2em;
-	}
+				.archive__item-teaser {
+						margin-bottom: 2em;
+				}
 
-	@include breakpoint($small) {
-	    .archive__item-teaser {
-		@include span(5 of 12);
-	    }
+				@include breakpoint($small) {
+						.archive__item-teaser {
+								@include span(5 of 12);
+						}
 
-	    .archive__item-body {
-		@include span(7 of 12 last);
-		@include prefix(0.5 of 12);
-		@include suffix(1 of 12);
-	    }
-	}
+						.archive__item-body {
+								@include span(7 of 12 last);
+								@include prefix(0.5 of 12);
+								@include suffix(1 of 12);
+						}
+				}
     }
 
     &--right {
-	@include full();
-	font-size: 1.25rem;
+				@include full();
+				font-size: 1.25rem;
 
-	.archive__item-teaser {
-	    margin-bottom: 2em;
-	}
+				.archive__item-teaser {
+						margin-bottom: 2em;
+				}
 
-	@include breakpoint($small) {
-	    text-align: right;
+				@include breakpoint($small) {
+						text-align: right;
 
-	    .archive__item-teaser {
-		@include span(5 of 12 rtl);
-	    }
+						.archive__item-teaser {
+								@include span(5 of 12 rtl);
+						}
 
-	    .archive__item-body {
-		@include span(7 of 12 last rtl);
-		@include prefix(0.5 of 12);
-		@include suffix(1 of 12);
-	    }
-	}
+						.archive__item-body {
+								@include span(7 of 12 last rtl);
+								@include prefix(0.5 of 12);
+								@include suffix(1 of 12);
+						}
+				}
     }
 
     &--center {
-	@include full();
-	font-size: 1.25rem;
+				@include full();
+				font-size: 1.25rem;
 
-	.archive__item-teaser {
-	    margin-bottom: 2em;
-	}
+				.archive__item-teaser {
+						margin-bottom: 2em;
+				}
 
-	@include breakpoint($small) {
-	    text-align: center;
+				@include breakpoint($small) {
+						text-align: center;
 
-	    .archive__item-teaser {
-		margin: 0 auto;
-		width: span(5 of 12);
-	    }
+						.archive__item-teaser {
+								margin: 0 auto;
+								width: span(5 of 12);
+						}
 
-	    .archive__item-body {
-		margin: 0 auto;
-		width: span(7 of 12);
-	    }
-	}
+						.archive__item-body {
+								margin: 0 auto;
+								width: span(7 of 12);
+						}
+				}
     }
 }

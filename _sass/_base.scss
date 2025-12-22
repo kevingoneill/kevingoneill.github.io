@@ -125,7 +125,8 @@ a {
 /* code */
 
 tt, code, kbd, samp, pre {
-  font-family: $monospace;
+		font-family: $monospace;
+		color: $body-color;
 }
 
 pre {
@@ -141,7 +142,7 @@ td > code {
   padding-bottom: 0.1rem;
   font-size: $type-size-6;
   background: $code-background-color;
-  border: 1px solid $lighter-gray;
+  //border: 1px solid $lighter-gray;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
 

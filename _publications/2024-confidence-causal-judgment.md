@@ -1,5 +1,5 @@
 ---
-title: "Measuring and modeling confidence in human causal judgment"
+title: "Modeling confidence in causal judgments"
 collection: publications
 date: 2024-08-01
 journal: 'Journal of Experimental Psychology: General'
