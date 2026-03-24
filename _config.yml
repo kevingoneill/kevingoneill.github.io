@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kevin O'Neill"
 title_separator          : "-"
 name                     : &name "Kevin O'Neill"
-description              : &description "Postdoctoral Research Associate at UCL studying metacognition and modal cognition."
+description              : &description "Postdoctoral research associate at UCL studying metacognition and modal cognition"
 url                      : https://kevingoneill.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kevingoneill/kevingoneill.github.io"
@@ -79,7 +79,7 @@ github: [metadata]
 author:
   name             : "Kevin O'Neill"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Research Associate at UCL studying metacognition and modal cognition."
+  bio              : "Postdoctoral research associate at UCL studying metacognition and modal cognition"
   location         : 
   employer         :
   pubmed           : 
