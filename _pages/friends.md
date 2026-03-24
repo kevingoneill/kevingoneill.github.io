@@ -17,7 +17,9 @@ me, my friends & mentors, and more:
 [Gabriela Fernandez Miranda](https://gabrielafernandezmiranda.github.io){:target="_blank"}: forgiveness, moral judgment, counterfactuals
 
 ## Resources & Groups
-[the MetaLab](http://metacoglab.org){:target="_blank"}: this is the website for my current lab, led by Prof. Stephen Fleming. <br>
+[hmetad](https://metacoglab.github.io/hmetad/){:target="_blank"}: this is an `R` package I wrote for analyzing confidence ratings in a hierarchical Bayesian framework <br>
+[the MetaLab](https://metacoglab.org){:target="_blank"}: this is the website for my current lab, led by Prof. Stephen Fleming. <br>
+[UCL Centre for Behavioural Data Science](https://www.ucl.ac.uk/brain-sciences/pals/research/behavioural-data-science){:target="_blank"}: this is a research center at UCL I participate in dedicated to computational modeling of behavior <br>
 [Duke Institite for Brain Sciences Methods Meetings](https://dibsmethodsmeetings.github.io){:target="_blank"}: this is a group of students & faculty I put together at Duke to share knowledge about statistics, methodology, programming, and more! We create new blog posts on the site bi-weekly, so stay tuned! <br>
 
 ## Past Mentors

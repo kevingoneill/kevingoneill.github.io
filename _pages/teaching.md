@@ -44,8 +44,11 @@ students (Introduction to Cognitive Psychology, Quantitative Research
 Methods & Statistics, and Psychology of Imagination), and in each
 course I had the opportunity to lead hands-on discussion sections and
 guest lectures. Finally, as part of the leadership team for the
-Cognitive Neuroscience Research Internship program for Duke
-undergraduates, I have mentored a number of students and guest
+[Cognitive Neuroscience Research Internship
+program](https://sites.duke.edu/cogneuroresearchinternship/) for Duke
+undergraduates and the founder of the [Duke Institute for Brain
+Sciences methods meetings](https://dibsmethodsmeetings.github.io) for
+graduate students, I have mentored a number of students and guest
 lectured on computational modeling, moral judgment, and modal
 cognition. To learn more about each of these teaching experiences,
 feel free to browse the pages below!

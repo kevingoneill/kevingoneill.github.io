@@ -26,8 +26,11 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-redirect-from'
   gem 'jekyll-seo-tag'
-  gem 'hawkins'
 end
 
-gem "webrick", "~> 1.7"
-gem 'faraday', "~> 1.10.0"
+gem 'hawkins'
+#gem 'csv'
+#gem 'bigdecimal'
+gem "webrick" #, "~> 1.7"
+gem 'faraday' #, "~> 1.10.0"
+gem 'faraday-retry'

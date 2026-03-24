@@ -1,5 +1,5 @@
 ---
-title: "TA: Psychology of Imagination"
+title: "Teaching Assistant: Psychology of Imagination"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-09-psych-imagination

@@ -1,5 +1,5 @@
 ---
-title: "TA: Quantitative Research Methods & Statistics"
+title: "Teaching Assistant: Quantitative Research Methods & Statistics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-01-research-methods
