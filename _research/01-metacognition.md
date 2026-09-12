@@ -14,7 +14,7 @@ reasoning about alternative/hypothetical possibilities).
 
 In one project, I helped to formalize a rational Bayesian model of
 confidence ratings that explains apparent biases in people's
-metacognition (Łuczak, O'Neill, & Fleming, 2024). According to optimal
+metacognition (Kozyra, O'Neill, & Fleming, 2026). According to optimal
 theories of metacognition, people should rate confidence as the
 subjective probability that their decision was correct. So, when
 choosing between options, it is usually seen as best for people to
@@ -22,9 +22,8 @@ choose the option with the most evidence and to rate their confidence
 as a function of the difference in evidence between the chosen and
 unchosen option (Panels A/C). But people's actual confidence ratings
 tend only to vary as a function of the evidence for the option they
-chose (response congruent heuristic; Panel D), which instead
-resembles the optimal confidence rating for a detection task (Panel
-B).
+chose (response congruent heuristic; Panel D), which instead resembles
+the optimal confidence rating for a detection task (Panel B).
 
 ![](../images/confidence_sdt.png){: style="width: 50%; display: block; margin: auto;" }
 
@@ -140,8 +139,8 @@ reliability and validity of metacognition research.
 
 
 ## References:
-  - [Łuczak, W., O'Neill, K., & Fleming, S. M. (2026). Confidence is detection-like in high-dimensional spaces. arXiv e-prints, arXiv-2410.](https://arxiv.org/abs/2410.18933)
+  - [Kozyra, W., O'Neill, K., & Fleming, S. M. (2026). Confidence is detection-like in high-dimensional spaces. Open Mind, 10, 1279–1309.](https://doi.org/10.1162/OPMI.a.359)
   - [Maniscalco, B., & Lau, H. (2012). A signal detection theoretic approach for estimating metacognitive sensitivity from confidence ratings. Consciousness and cognition, 21(1), 422-430.](https://doi.org/10.1016/j.concog.2011.09.021)
   - [O'Neill, K. & Fleming, S. (2026). hmetad: Fit the meta-d' model of confidence ratings using 'brms'. R package version 0.1.0.9000](https://metacoglab.github.io/hmetad/)
-  - O'Neill, K., Zhan, T., & Fleming, S. (2026). A measure of metacognitive bias you can be confident in. 
+  - [O'Neill, K., Zhan, T., & Fleming, S. (2026). A measure of metacognitive bias you can be confident in.](https://doi.org/10.31234/osf.io/q7pwd_v1)
 
